@@ -35,7 +35,7 @@ Based on the analysis, the following recommendations are made for Airbnb hosts t
 
 ## Tableau Dashboard
 An interactive Tableau dashboard has been created to visualize key findings and enhance data analysis. 
-Views the Tableu Dashboard here.
+Views the Tableu Dashboard [here](https://public.tableau.com/views/capstone_2_17308247942970/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Reference
 1. https://news.airbnb.com/about-us/
