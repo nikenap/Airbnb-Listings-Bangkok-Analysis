@@ -1,4 +1,4 @@
-# AirBnB-Listings-Bangkok-Analysis
+# Airbnb-Listings-Bangkok-Analysis
 
 ## Project Synopsis
 This Capstone Project focuses on data analysis (Data Preparation, Understanding & Feature Engineering) and data visualization, aiming to provide recommendations and insights to optimize popularity and total revenue for Airbnb hosts in Bangkok. Analysis tools include Python (NumPy, Pandas, Seaborn, and Matplotlib) for data processing and Tableau for creating interactive dashboards.
